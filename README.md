@@ -11,13 +11,6 @@ Timer: A countdown timer adds an element of challenge, with players needing to a
 High Scores: Players can view high scores achieved by themselves or other players who have completed the quiz successfully.
 Restart and Clear: Options are available to restart the quiz or clear high scores for a fresh start.
 
-How to Play:
-Start the Game: Open the index.html file in a web browser to begin the game.
-Answer Trivia Questions: Navigate through the trivia questions by selecting the correct answers for each topic.
-Finish the Game: Complete all the questions to see your final score and determine if you are smarter than a fifth grader.
-View High Scores: Click on the "View High Scores" button to see the top scores achieved by players.
-Restart or Clear: Use the options to restart the quiz for another attempt or clear high scores if needed.
-
 Project Structure:
 The main entry point of the application, containing the introductory page with a call-to-action button to start the game. A page displaying trivia questions about various subjects typically taught in fifth-grade curriculum, presented in a user-friendly format. A high scores page where players can view top scores achieved by themselves and other players.
 Directory containing CSS files (style.css) for styling the application, JavaScript files (script.js) for functionality, and images used throughout the project.
